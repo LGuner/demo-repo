@@ -1,3 +1,5 @@
 # Demo
 
-Some plain text
+Some plain text.
+
+Some additional plain text.
